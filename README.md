@@ -15,6 +15,34 @@ Here are other projects I have created but are not in my Data Analysis Portfolio
 
 [Mexico With States Layout.pdf](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Mexico%20With%20States%20Layout.pdf)
 
+## CSS & HTML
+
+### Personal Website
+
+**Issue:** I already owned a domain but never put it to use. I tried using WordPress to build my website but I could not find any website templates I liked.
+
+**Solution:** I decided to learn the basics of CSS & HTML to build my custom website from scratch with the intent to showcasse my new skill and the rest of my technical skills through my portfolio.
+
+**Topics:**
+- HREF Links
+- Buttons
+- Keyframes
+- NavBar
+- Form
+
+
+**Files:** 
+
+[Style Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/style.css) 
+
+[Index Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/index.html)
+
+[Portfolio Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/portfolio.html)
+
+[Contact Page](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/contact.html)
+
+[Java Script](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/script.js)
+
 ## Excel
 
 ### Personal Budget Book
