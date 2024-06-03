@@ -58,6 +58,23 @@ Here are other projects I have created but are not in my Data Analysis Portfolio
 
 **File:** [Budget Book.xlsm](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/Budgetbook_2023_Data1.xlsm)
 
+### Customer Data Order Dashboard
+
+**Issue:** Our company's sales department wants to know the frequency of when our customers place orders. The goal is to find those that are less frequent to place orders and make an attempt to strengthen the relationship. 
+
+**Solution:** Build an interactive customer orders dashboard where we can view each individual customers previous orders and can be shared among each of the teams members without any issue.
+
+**Topics:**
+- VBA
+- Index Function
+- Vlookup Function
+- Pivot Table
+- Pivot Chart
+
+
+**File:** [Customer Data Order Dashboard](https://github.com/EZ80VEGA/data_analysis_portfolio/blob/main/CustomerOrders-Reworked.xlsm)
+
+
 ## Python
 
 ### Automated Personal Financial Transactions Import
